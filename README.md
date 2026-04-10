@@ -4,7 +4,11 @@
 Hi, I'm Suraj Singh, a B.Tech graduate aspiring Data Science Engineer.
 
 ## 📌 Project Overview
-This project focuses on data cleaning and exploratory data analysis (EDA) on a retail sales dataset to uncover meaningful business insights.
+
+- The retail_sales_dataset.csv file on kaggle
+- Link of File : https://www.kaggle.com/datasets/surajsingh83/retail-sales-dataset-csv
+
+- This project focuses on data cleaning and exploratory data analysis (EDA) on a retail sales dataset to uncover meaningful business insights.
 
 ## 🎯 Objectives
 - Perform data cleaning (missing values, duplicates)
